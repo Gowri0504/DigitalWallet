@@ -1,0 +1,7 @@
+To Run:
+
+in digitalwallet folder
+       node server.js     (start server)
+
+then inseide that folder 
+       npm start           (strat client)
